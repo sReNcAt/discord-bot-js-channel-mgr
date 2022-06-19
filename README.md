@@ -1,6 +1,6 @@
 # discord-bot-js-channel-mgr
 
-Slack에 익숙한 초기 코딩냄비 디스코드(https://github.com/codingpot)의 요청사항으로 제작하였던
+Slack에 익숙한 초기 코딩냄비 디스코드( https://github.com/codingpot )의 요청사항으로 제작하였던
 
 스레드와 유사한 기능을 제공하 는 채널관리용 봇.
 
